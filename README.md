@@ -1,2 +1,8 @@
 # Arithmetic
-Arithmetic
+
+* 冒泡
+* 归并
+* 快排
+* 插入
+* 选择
+* 链表相关操作
